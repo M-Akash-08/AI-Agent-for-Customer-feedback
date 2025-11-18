@@ -22,7 +22,7 @@ This project is the backend of the Customer Feedback Analysis AI Agent. It is bu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ahmad2b/customer-feedback-analysis-ai-agent.git
+   git clone https://github.com/M-Akash-08/customer-feedback-analysis-ai-agent.git
    cd agent-service
    ```
 
